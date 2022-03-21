@@ -5,6 +5,9 @@ __pycache__/
 conda_env/
 .ipynb_checkpoints
 
+# Files
+plankton.pt
+
 
 
 
